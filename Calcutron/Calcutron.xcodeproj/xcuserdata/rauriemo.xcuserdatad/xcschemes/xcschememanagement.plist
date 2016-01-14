@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>XcodePractice.xcscheme</key>
+		<key>Calcutron.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3683ABD71C209C53001CF22B</key>
+		<key>36AC80A21C481E5800041A53</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3683ABF31C209C53001CF22B</key>
+		<key>36AC80BB1C481E5800041A53</key>
 		<dict>
 			<key>primary</key>
 			<true/>
